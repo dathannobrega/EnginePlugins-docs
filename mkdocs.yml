@@ -1,0 +1,94 @@
+# Configuração geral do site (usada como padrão)
+site_name: Engine Plugins
+repo_url: https://github.com/dathannobrega/EnginePlugins-docs.git
+
+# Where MkDocs should look for the documentation files
+docs_dir: raid-engine
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - content.code.copy
+    - navigation.top
+  palette:
+    primary: blue
+    accent: orange
+
+# Language switcher at the top
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Português
+      link: /pt/
+      lang: pt
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          name: English
+          site_name: Engine Plugins
+          default: true
+          build: true
+          nav:
+            - Home: index.md
+            - RaidEngine:
+              - Overview: raidengine.md
+              - Core Concepts:
+                - Clans: clan.md
+                - Claims: claim.md
+                - War: war.md
+                - Upkeep: upkeep.md
+              - Features:
+                - GUI: gui.md
+                - Flight: flight.md
+                - Portals & Warps: portals-warps.md
+                - Zones: zones.md
+              - Integrations:
+                - Placeholders: placeholders.md
+                - LuckPerms: luckperms.md
+                - Scoreboard: scoreboard.md
+              - Technical:
+                - Configuration: configuration.md
+                - Language (Lang): lang.md
+                - Messages: messages.md
+                - Data Storage: data.md
+                - Tasks: tasks.md
+                - API: api.md
+        - locale: pt
+          name: Português
+          site_name: Engine Plugins (PT-BR)
+          nav:
+            - Início: index.md
+            - RaidEngine:
+              - Visão Geral: raidengine.md
+              - Conceitos Principais:
+                - Clãs: clan.md
+                - Territórios: claim.md
+                - Guerra: war.md
+                - Manutenção: upkeep.md
+              - Funcionalidades:
+                - GUI: gui.md
+                - Voo: flight.md
+                - Portais e Warps: portals-warps.md
+                - Zonas: zones.md
+              - Integrações:
+                - Placeholders: placeholders.md
+                - LuckPerms: luckperms.md
+                - Placar: scoreboard.md
+              - Técnico:
+                - Configuração: configuration.md
+                - Idiomas (Lang): lang.md
+                - Mensagens: messages.md
+                - Armazenamento: data.md
+                - Tarefas: tasks.md
+                - API: api.md

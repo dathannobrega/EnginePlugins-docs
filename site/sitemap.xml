@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/"/>
+    </url>
+    <url>
+        <loc>Noneapi/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/api/"/>
+    </url>
+    <url>
+        <loc>Noneclaim/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneclaim/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/claim/"/>
+    </url>
+    <url>
+        <loc>Noneclan/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneclan/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/clan/"/>
+    </url>
+    <url>
+        <loc>Noneconfiguration/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneconfiguration/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/configuration/"/>
+    </url>
+    <url>
+        <loc>Nonedata/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/data/"/>
+    </url>
+    <url>
+        <loc>Noneflight/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneflight/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/flight/"/>
+    </url>
+    <url>
+        <loc>Nonegui/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonegui/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/gui/"/>
+    </url>
+    <url>
+        <loc>Nonelang/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelang/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/lang/"/>
+    </url>
+    <url>
+        <loc>Noneluckperms/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneluckperms/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/luckperms/"/>
+    </url>
+    <url>
+        <loc>Nonemessages/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemessages/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/messages/"/>
+    </url>
+    <url>
+        <loc>Noneplaceholders/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneplaceholders/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/placeholders/"/>
+    </url>
+    <url>
+        <loc>Noneportals-warps/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneportals-warps/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/portals-warps/"/>
+    </url>
+    <url>
+        <loc>Noneraidengine/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneraidengine/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/raidengine/"/>
+    </url>
+    <url>
+        <loc>Nonescoreboard/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonescoreboard/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/scoreboard/"/>
+    </url>
+    <url>
+        <loc>Nonetasks/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetasks/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/tasks/"/>
+    </url>
+    <url>
+        <loc>Noneupkeep/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneupkeep/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/upkeep/"/>
+    </url>
+    <url>
+        <loc>Nonewar/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonewar/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/war/"/>
+    </url>
+    <url>
+        <loc>Nonezones/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonezones/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/zones/"/>
+    </url>
+    <url>
+        <loc>Nonept/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonept/api/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/"/>
+    </url>
+    <url>
+        <loc>Nonept/claim/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/claim/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneclaim/"/>
+    </url>
+    <url>
+        <loc>Nonept/clan/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/clan/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneclan/"/>
+    </url>
+    <url>
+        <loc>Nonept/configuration/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneconfiguration/"/>
+    </url>
+    <url>
+        <loc>Nonept/data/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata/"/>
+    </url>
+    <url>
+        <loc>Nonept/flight/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/flight/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneflight/"/>
+    </url>
+    <url>
+        <loc>Nonept/gui/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/gui/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonegui/"/>
+    </url>
+    <url>
+        <loc>Nonept/lang/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/lang/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelang/"/>
+    </url>
+    <url>
+        <loc>Nonept/luckperms/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/luckperms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneluckperms/"/>
+    </url>
+    <url>
+        <loc>Nonept/messages/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/messages/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemessages/"/>
+    </url>
+    <url>
+        <loc>Nonept/placeholders/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/placeholders/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneplaceholders/"/>
+    </url>
+    <url>
+        <loc>Nonept/portals-warps/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/portals-warps/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneportals-warps/"/>
+    </url>
+    <url>
+        <loc>Nonept/raidengine/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/raidengine/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneraidengine/"/>
+    </url>
+    <url>
+        <loc>Nonept/scoreboard/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/scoreboard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonescoreboard/"/>
+    </url>
+    <url>
+        <loc>Nonept/tasks/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/tasks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetasks/"/>
+    </url>
+    <url>
+        <loc>Nonept/upkeep/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/upkeep/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneupkeep/"/>
+    </url>
+    <url>
+        <loc>Nonept/war/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/war/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonewar/"/>
+    </url>
+    <url>
+        <loc>Nonept/zones/</loc>
+        <lastmod>2025-08-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="Nonept/zones/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonezones/"/>
+    </url>
+</urlset>
